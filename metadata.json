@@ -1,6 +1,0 @@
-{
-  "name": "מערכת שיבוץ תקשוב",
-  "description": "מערכת שיבוץ שעות לחדרי מחשבים והשאלת עגלות מחשבים ניידים לצוות בית הספר",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
